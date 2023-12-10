@@ -1,0 +1,5 @@
+picom-conf (0.17.0~git20231210-0ubuntu1) noble; urgency=medium
+
+  * Initial release. (LP: #2046086)
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Sun, 10 Dec 2023 21:52:25 +0000
