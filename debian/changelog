@@ -1,6 +1,7 @@
 picom-conf (0.17.0-0ubuntu1) noble; urgency=medium
 
   * New upstream release.
+  * Added debian/watch file.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 05 Jan 2024 17:28:28 +0000
 
