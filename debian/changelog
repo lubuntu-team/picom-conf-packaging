@@ -7,6 +7,7 @@ picom-conf (0.17.0-0ubuntu1) noble; urgency=medium
   * Added help2man automatic manpage generation.
   * Fixed an invalid documentation link in debian/upstream/metadata.
   * Stopped specifying release build mode.
+  * Enabled hardening.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 05 Jan 2024 17:28:28 +0000
 
