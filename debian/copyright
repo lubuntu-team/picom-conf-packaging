@@ -36,6 +36,7 @@ Comment: Per the COPYING file: The exception in section 5 of the GNU Lesser
 
 Files: debian/*
 Copyright: 2023 Simon Quigley <tsimonq2@ubuntu.com>
+           2024 Aaron Rainbolt <arraybolt3@ubuntu.com>
 License: Expat
 
 License: LGPL-2.1
