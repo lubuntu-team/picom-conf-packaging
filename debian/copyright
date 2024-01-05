@@ -15,7 +15,7 @@ Copyright: 2021-2023 Andrea Zanellato <redtid3@gmail.com>
 License: Expat
 
 Files: resources/freedesktop/application.appdata.xml.in
-Copyright: none
+Copyright: LXQt team
 License: CC0-1.0
 Comment: The file itself does not specify its license. However, it specifies
  that the metadata license is to be expanded from the variable
