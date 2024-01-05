@@ -4,6 +4,7 @@ picom-conf (0.17.0-0ubuntu1) noble; urgency=medium
   * Added debian/watch file.
   * Updated copyright file.
   * Removed no-manual-page Lintian override.
+  * Added help2man automatic manpage generation.
 
  -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 05 Jan 2024 17:28:28 +0000
 
