@@ -9,7 +9,7 @@ Build-Depends: cmake (>= 3.15),
                help2man,
                libconfig-dev,
                liblxqt2-dev,
-               libqtilitools-dev,
+               libqtilitools-dev (>= 0.1.2),
                qt6-base-dev,
                qt6-tools-dev,
                qt6-tools-dev-tools
