@@ -9,9 +9,10 @@ Build-Depends: cmake (>= 3.15),
                help2man,
                libconfig-dev,
                liblxqt2-dev,
-               qt6-base-dev,
                libqtilitools-dev,
-               qt6-tools-dev
+               qt6-base-dev,
+               qt6-tools-dev,
+               qt6-tools-dev-tools
 Standards-Version: 4.6.2
 Homepage: https://github.com/qtilities/picom-conf/
 Vcs-Browser: https://salsa.debian.org/ArrayBolt3/picom-conf
