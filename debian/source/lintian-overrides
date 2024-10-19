@@ -1,0 +1,2 @@
+# Upstream does not provide a signed file
+picom-conf source: debian-watch-does-not-check-openpgp-signature [debian/watch]
