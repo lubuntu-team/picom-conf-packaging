@@ -9,7 +9,7 @@ override_dh_installman:
 	help2man -N -n "configure the Picom compositor" "./debian/picom-conf/usr/bin/picom-conf -platform offscreen" > debian/picom-conf.1
 	dh_installman
 
-override_dh_auto_configure:                                                                                                                                                 
-	dh_auto_configure -- \                                                                                                                                                  
+override_dh_auto_configure:
+	dh_auto_configure -- \
 		-DCMAKE_BUILD_TYPE=RelWithDebInfo \
 		-DPROJECT_QT_VERSION=6
