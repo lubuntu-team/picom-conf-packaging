@@ -1,6 +1,7 @@
 picom-conf (0.17.0-0ubuntu2) UNRELEASED; urgency=medium
 
   * Use the Qt 6 port.
+  * Update Standards-version to 4.7.0, no changes needed.
 
  -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 19 Oct 2024 15:16:25 -0500
 
