@@ -1,18 +1,30 @@
-picom-conf (0.17.0-0ubuntu1) noble; urgency=medium
+picom-conf (0.17.0-1ubuntu1) oracular; urgency=medium
 
-  * New upstream release.
-  * Added debian/watch file.
-  * Updated copyright file.
-  * Removed no-manual-page Lintian override.
-  * Added help2man automatic manpage generation.
-  * Fixed an invalid documentation link in debian/upstream/metadata.
-  * Stopped specifying release build mode.
-  * Enabled hardening.
+  * Build-depend on liblxqt2-dev.
 
- -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 05 Jan 2024 17:28:28 +0000
+ -- Matthias Klose <doko@ubuntu.com>  Sun, 22 Sep 2024 17:33:06 +0200
 
-picom-conf (0.17.0~git20231210-0ubuntu1) noble; urgency=medium
+picom-conf (0.17.0-1build3) noble; urgency=high
 
-  * Initial release. (LP: #2046086)
+  * No change rebuild against libqt5core5t64, libqt5dbus5t64,
+    libqt5gui5t64, libqt5widgets5t64.
 
- -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Mon, 11 Dec 2023 05:18:22 +0000
+ -- Julian Andres Klode <juliank@ubuntu.com>  Mon, 08 Apr 2024 16:47:31 +0200
+
+picom-conf (0.17.0-1build2) noble; urgency=medium
+
+  * No-change rebuild for CVE-2024-3094
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sun, 31 Mar 2024 16:59:11 +0000
+
+picom-conf (0.17.0-1build1) noble; urgency=medium
+
+  * No-change rebuild against libqt5core5t64
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 15 Mar 2024 06:23:52 +0000
+
+picom-conf (0.17.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1058713)
+
+ -- Aaron Rainbolt <arraybolt3@ubuntu.com>  Fri, 05 Jan 2024 20:01:47 +0000
