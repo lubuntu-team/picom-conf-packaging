@@ -1,4 +1,4 @@
-picom-conf (0.17.0-0ubuntu3) plucky; urgency=medium
+picom-conf (0.17.0-1ubuntu4) plucky; urgency=medium
 
   * No-change rebuild against libqtilitools-dev. (LP: #2093071) 
 
